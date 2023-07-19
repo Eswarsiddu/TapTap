@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591498866a999d4b5b0fee3a7fb82c2d, type: 3}
+  m_Name: AssetsStore
+  m_EditorClassIdentifier: 
+  targetTexures:
+  - _sprite: {fileID: 333833835, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 1, g: 1, b: 1, a: 1}
+    _cost: 0
+    _isLocked: 0
+  - _sprite: {fileID: 849220293, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 0, g: 0, b: 0, a: 1}
+    _cost: 30
+    _isLocked: 1
+  - _sprite: {fileID: 452611103, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 0, g: 0, b: 0, a: 1}
+    _cost: 60
+    _isLocked: 1
+  - _sprite: {fileID: -1600774839, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 1, g: 1, b: 1, a: 1}
+    _cost: 150
+    _isLocked: 1
+  - _sprite: {fileID: 428648423, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 0, g: 0, b: 0, a: 1}
+    _cost: 300
+    _isLocked: 1
+  - _sprite: {fileID: -159004657, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 0, g: 0, b: 0, a: 1}
+    _cost: 450
+    _isLocked: 1
+  - _sprite: {fileID: 1027896941, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 1, g: 1, b: 1, a: 1}
+    _cost: 650
+    _isLocked: 1
+  - _sprite: {fileID: -1240899723, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 1, g: 1, b: 1, a: 1}
+    _cost: 800
+    _isLocked: 1
+  - _sprite: {fileID: 1759485810, guid: 992fcc33c01f551ffab54f0ad22ac468, type: 3}
+    _textColor: {r: 0, g: 0, b: 0, a: 1}
+    _cost: 1200
+    _isLocked: 1

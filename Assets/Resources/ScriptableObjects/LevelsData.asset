@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 725907c5ab5110361b5d50865f85fba7, type: 3}
+  m_Name: LevelsData
+  m_EditorClassIdentifier: 
+  levelsInfo:
+  - _maxLevelNumber: 2
+    _time: 10
+    _noOfTargets: 1
+    _speed: 0
+    _targetCount: 10
+    _minCoins: 5
+    _maxCoins: 5
+    standard: 1
+    horizontal: 0
+    vertical: 0
+    diagonal: 0
+  - _maxLevelNumber: 5
+    _time: 15
+    _noOfTargets: 2
+    _speed: 0
+    _targetCount: 12
+    _minCoins: 6
+    _maxCoins: 8
+    standard: 1
+    horizontal: 0
+    vertical: 0
+    diagonal: 0
+  - _maxLevelNumber: 10
+    _time: 20
+    _noOfTargets: 2
+    _speed: 70
+    _targetCount: 15
+    _minCoins: 9
+    _maxCoins: 10
+    standard: 1
+    horizontal: 1
+    vertical: 0
+    diagonal: 0
+  - _maxLevelNumber: 15
+    _time: 25
+    _noOfTargets: 2
+    _speed: 85
+    _targetCount: 12
+    _minCoins: 11
+    _maxCoins: 15
+    standard: 0
+    horizontal: 1
+    vertical: 0
+    diagonal: 0
+  - _maxLevelNumber: 17
+    _time: 20
+    _noOfTargets: 2
+    _speed: 120
+    _targetCount: 35
+    _minCoins: 16
+    _maxCoins: 17
+    standard: 1
+    horizontal: 0
+    vertical: 0
+    diagonal: 0
+  - _maxLevelNumber: 20
+    _time: 25
+    _noOfTargets: 2
+    _speed: 140
+    _targetCount: 20
+    _minCoins: 18
+    _maxCoins: 20
+    standard: 0
+    horizontal: 1
+    vertical: 1
+    diagonal: 0
+  - _maxLevelNumber: 24
+    _time: 30
+    _noOfTargets: 3
+    _speed: 160
+    _targetCount: 20
+    _minCoins: 21
+    _maxCoins: 23
+    standard: 1
+    horizontal: 1
+    vertical: 1
+    diagonal: 0
+  - _maxLevelNumber: 25
+    _time: 20
+    _noOfTargets: 2
+    _speed: 220
+    _targetCount: 35
+    _minCoins: 27
+    _maxCoins: 27
+    standard: 1
+    horizontal: 0
+    vertical: 1
+    diagonal: 0
+  - _maxLevelNumber: 30
+    _time: 35
+    _noOfTargets: 3
+    _speed: 245
+    _targetCount: 25
+    _minCoins: 28
+    _maxCoins: 30
+    standard: 0
+    horizontal: 1
+    vertical: 1
+    diagonal: 0
+  - _maxLevelNumber: 33
+    _time: 40
+    _noOfTargets: 2
+    _speed: 270
+    _targetCount: 25
+    _minCoins: 31
+    _maxCoins: 32
+    standard: 0
+    horizontal: 1
+    vertical: 0
+    diagonal: 1
+  - _maxLevelNumber: 37
+    _time: 35
+    _noOfTargets: 3
+    _speed: 300
+    _targetCount: 30
+    _minCoins: 33
+    _maxCoins: 35
+    standard: 1
+    horizontal: 0
+    vertical: 1
+    diagonal: 1
+  - _maxLevelNumber: 40
+    _time: 35
+    _noOfTargets: 3
+    _speed: 330
+    _targetCount: 30
+    _minCoins: 36
+    _maxCoins: 37
+    standard: 0
+    horizontal: 1
+    vertical: 1
+    diagonal: 1
+  - _maxLevelNumber: 42
+    _time: 45
+    _noOfTargets: 4
+    _speed: 360
+    _targetCount: 40
+    _minCoins: 41
+    _maxCoins: 42
+    standard: 0
+    horizontal: 1
+    vertical: 1
+    diagonal: 1
+  - _maxLevelNumber: 44
+    _time: 40
+    _noOfTargets: 3
+    _speed: 380
+    _targetCount: 35
+    _minCoins: 43
+    _maxCoins: 44
+    standard: 0
+    horizontal: 0
+    vertical: 1
+    diagonal: 1
+  - _maxLevelNumber: 50
+    _time: 45
+    _noOfTargets: 4
+    _speed: 410
+    _targetCount: 30
+    _minCoins: 45
+    _maxCoins: 48
+    standard: 1
+    horizontal: 1
+    vertical: 1
+    diagonal: 1
+  - _maxLevelNumber: 53
+    _time: 50
+    _noOfTargets: 4
+    _speed: 450
+    _targetCount: 40
+    _minCoins: 49
+    _maxCoins: 52
+    standard: 0
+    horizontal: 0
+    vertical: 1
+    diagonal: 1
+  - _maxLevelNumber: 54
+    _time: 75
+    _noOfTargets: 5
+    _speed: 440
+    _targetCount: 60
+    _minCoins: 60
+    _maxCoins: 60
+    standard: 0
+    horizontal: 1
+    vertical: 1
+    diagonal: 1
+  - _maxLevelNumber: 58
+    _time: 60
+    _noOfTargets: 4
+    _speed: 450
+    _targetCount: 50
+    _minCoins: 61
+    _maxCoins: 64
+    standard: 1
+    horizontal: 1
+    vertical: 1
+    diagonal: 1
+  - _maxLevelNumber: 60
+    _time: 60
+    _noOfTargets: 4
+    _speed: 500
+    _targetCount: 70
+    _minCoins: 65
+    _maxCoins: 70
+    standard: 0
+    horizontal: 1
+    vertical: 1
+    diagonal: 1
+  index: 0

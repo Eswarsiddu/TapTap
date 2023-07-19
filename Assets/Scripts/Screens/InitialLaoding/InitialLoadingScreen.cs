@@ -1,0 +1,1 @@
+public class InitialLoadingScreen : A_Screen { }
